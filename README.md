@@ -1,5 +1,7 @@
 # F22-Starter-Microservice
-
+- name: Xuening Leng
+- id: xl3119
+- team: thumbsUp
 ## Introduction
 
 This is a simple Flask based starter microservice for F22 Columbia classes.
